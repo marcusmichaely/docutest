@@ -1,3 +1,5 @@
 # Index
 
-This is a test
+- [Page One](one.md)
+- [Page Two](two.md)
+
